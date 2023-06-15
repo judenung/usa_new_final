@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Lenovo Legion/Desktop/my-app/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Lenovo Legion/Desktop/my-app/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Lenovo Legion/Desktop/my-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Lenovo Legion\\Desktop\\my-app\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Lenovo Legion\\Desktop\\my-app\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Lenovo Legion/Desktop/my-app/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Lenovo Legion/Desktop/my-app/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Lenovo Legion/Desktop/my-app/frontend/generated/jar-resources",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "C:\\Users\\Lenovo Legion\\Desktop\\my-app\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

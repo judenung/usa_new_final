@@ -1,18 +1,18 @@
-/target/
-.idea/
-.vscode/
-.settings
-.project
-.classpath
+# /target/
+# .idea/
+# .vscode/
+# .settings
+# .project
+# .classpath
 
 *.iml
 .DS_Store
 
 # The following files are generated/updated by vaadin-maven-plugin
-node_modules/
-frontend/generated/
-pnpmfile.js
-vite.generated.ts
+# node_modules/
+# frontend/generated/
+# pnpmfile.js
+# vite.generated.ts
 
 # Browser drivers for local integration tests
 drivers/
